@@ -1,0 +1,136 @@
+{
+  "photos": [
+    {
+      "id": "photo-1",
+      "original_name": "IMG-20260622-WA0058.jpg",
+      "clean_filename": "photo_01.jpg",
+      "path": "/images/memories/photo_01.jpg",
+      "alt_path": "/images/memories/IMG-20260622-WA0058.jpg"
+    },
+    {
+      "id": "photo-2",
+      "original_name": "Snapchat-252495055.jpg",
+      "clean_filename": "photo_02.jpg",
+      "path": "/images/memories/photo_02.jpg",
+      "alt_path": "/images/memories/Snapchat-252495055.jpg"
+    },
+    {
+      "id": "photo-3",
+      "original_name": "Snapchat-56898891.jpg",
+      "clean_filename": "photo_03.jpg",
+      "path": "/images/memories/photo_03.jpg",
+      "alt_path": "/images/memories/Snapchat-56898891.jpg"
+    },
+    {
+      "id": "photo-4",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.07.14 PM (1).jpeg",
+      "clean_filename": "photo_04.jpg",
+      "path": "/images/memories/photo_04.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.07.14_PM_(1).jpeg"
+    },
+    {
+      "id": "photo-5",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.07.14 PM.jpeg",
+      "clean_filename": "photo_05.jpg",
+      "path": "/images/memories/photo_05.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.07.14_PM.jpeg"
+    },
+    {
+      "id": "photo-6",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.07.15 PM (1).jpeg",
+      "clean_filename": "photo_06.jpg",
+      "path": "/images/memories/photo_06.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.07.15_PM_(1).jpeg"
+    },
+    {
+      "id": "photo-7",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.07.15 PM.jpeg",
+      "clean_filename": "photo_07.jpg",
+      "path": "/images/memories/photo_07.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.07.15_PM.jpeg"
+    },
+    {
+      "id": "photo-8",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.07.18 PM (1).jpeg",
+      "clean_filename": "photo_08.jpg",
+      "path": "/images/memories/photo_08.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.07.18_PM_(1).jpeg"
+    },
+    {
+      "id": "photo-9",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.07.18 PM.jpeg",
+      "clean_filename": "photo_09.jpg",
+      "path": "/images/memories/photo_09.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.07.18_PM.jpeg"
+    },
+    {
+      "id": "photo-10",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.09.38 PM.jpeg",
+      "clean_filename": "photo_10.jpg",
+      "path": "/images/memories/photo_10.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.09.38_PM.jpeg"
+    },
+    {
+      "id": "photo-11",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.14.36 PM.jpeg",
+      "clean_filename": "photo_11.jpg",
+      "path": "/images/memories/photo_11.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.14.36_PM.jpeg"
+    },
+    {
+      "id": "photo-12",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.14.37 PM (1).jpeg",
+      "clean_filename": "photo_12.jpg",
+      "path": "/images/memories/photo_12.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.14.37_PM_(1).jpeg"
+    },
+    {
+      "id": "photo-13",
+      "original_name": "WhatsApp Image 2026-11-22 at 6.14.37 PM.jpeg",
+      "clean_filename": "photo_13.jpg",
+      "path": "/images/memories/photo_13.jpg",
+      "alt_path": "/images/memories/WhatsApp_Image_2026-11-22_at_6.14.37_PM.jpeg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-1",
+      "original_name": "Snapchat-198921910.mp4",
+      "clean_filename": "video_01.mp4",
+      "path": "/videos/video_01.mp4"
+    },
+    {
+      "id": "video-2",
+      "original_name": "Snapchat-371051091.mp4",
+      "clean_filename": "video_02.mp4",
+      "path": "/videos/video_02.mp4"
+    },
+    {
+      "id": "video-3",
+      "original_name": "Snapchat-489173878.mp4",
+      "clean_filename": "video_03.mp4",
+      "path": "/videos/video_03.mp4"
+    },
+    {
+      "id": "video-4",
+      "original_name": "WhatsApp Video 2026-11-22 at 6.07.14 PM.mp4",
+      "clean_filename": "video_04.mp4",
+      "path": "/videos/video_04.mp4"
+    },
+    {
+      "id": "video-5",
+      "original_name": "WhatsApp Video 2026-11-22 at 6.07.18 PM.mp4",
+      "clean_filename": "video_05.mp4",
+      "path": "/videos/video_05.mp4"
+    },
+    {
+      "id": "video-6",
+      "original_name": "WhatsApp Video 2026-11-22 at 6.14.40 PM.mp4",
+      "clean_filename": "video_06.mp4",
+      "path": "/videos/video_06.mp4"
+    }
+  ],
+  "bgm": "/audio/romantic-bgm.mp3",
+  "voice": "/audio/voice-message.mp3",
+  "montage": "/media/our-story-montage.mp4"
+}
